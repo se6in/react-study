@@ -19,3 +19,17 @@ npm install express --save
 node 실행
 
 npm run start
+
+## 몽고 DB 연결
+
+몽고 DB 사이트에서 회원가입 및 로그인하기
+
+클러스터 만들기
+
+## mongoose 다운로드
+
+npm install mongoose --save
+
+index.js
+
+![image](https://github.com/user-attachments/assets/cb6a04e8-bbad-4138-838a-83ea3cd73fbe)
