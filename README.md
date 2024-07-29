@@ -9,8 +9,13 @@
 node -v
 
 프로젝트 폴더에서
+
 npm init
 
 ## express js 다운받기
 
 npm install express --save
+
+node 실행
+
+npm run start
