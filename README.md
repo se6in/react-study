@@ -33,3 +33,25 @@ npm install mongoose --save
 index.js
 
 ![image](https://github.com/user-attachments/assets/cb6a04e8-bbad-4138-838a-83ea3cd73fbe)
+
+## MongoDB model & schema
+
+model은 schema를 감싸주는 역할
+
+![image](https://github.com/user-attachments/assets/8994d6fa-ba0a-49f3-970d-3f518e6774b4)
+
+## Git 설치
+
+git init
+
+git add .
+
+node 모듈은 굳이 깃허브에 올릴필요가 없다. npm install하면 되기 때문에
+
+이미 add를 했다면 git rm --cached node_modules -r
+
+## Github 연결
+
+SSH로 연결
+
+윈도우 환경은 깃배쉬에서 해야함.
