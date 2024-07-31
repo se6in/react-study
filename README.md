@@ -70,6 +70,8 @@ SSH로 연결
 
 ![image](https://github.com/user-attachments/assets/c690e4de-0c82-426a-8bf4-96b45ca8700c)
 
+몽고 db에 들어감
+
 ![image](https://github.com/user-attachments/assets/9fe7d171-7feb-418a-be7e-dec8b1d41079)
 
 
