@@ -57,3 +57,21 @@ SSH로 연결
 윈도우 환경은 깃배쉬에서 해야함.
 
 복잡하니 구글링해서 한다.
+
+## PostMan & 회원 가입 기능
+
+포스트맨 다운받기
+
+회원 가입 
+
+![image](https://github.com/user-attachments/assets/41044612-f0d4-4199-b42e-689c44477baa)
+
+![image](https://github.com/user-attachments/assets/fb0e9a96-f9d7-410c-a5c1-24caad2b3603)
+
+![image](https://github.com/user-attachments/assets/c690e4de-0c82-426a-8bf4-96b45ca8700c)
+
+![image](https://github.com/user-attachments/assets/9fe7d171-7feb-418a-be7e-dec8b1d41079)
+
+
+## Nodemon 설치
+
