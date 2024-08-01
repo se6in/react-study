@@ -109,3 +109,32 @@ npm install nodemon --save-dev (-dev는 로컬에만 쓰겠다)
 깃허브 올릴때도 비밀 설정 정보 관리
 
 ![image](https://github.com/user-attachments/assets/c407c17e-472e-413f-a9de-c31e0f05c552)
+
+## Bcrypt로 비밀번호 암호화 하기
+
+Bcrypt다운받기
+
+npm install bcrypt --save
+
+![image](https://github.com/user-attachments/assets/31905b35-a9f0-4eaf-adb7-efc22d60b28f)
+
+![image](https://github.com/user-attachments/assets/6ce3c7ed-3869-4d89-94e9-a855ad917d07)
+
+## 로그인 기능 with Bcrypt
+
+jsonwebtoken 다운받기
+
+npm install jsonwebtoken --save
+
+cookie-parser 다운받기
+
+npm install cookie-parser --save
+
+![image](https://github.com/user-attachments/assets/fe781f18-5eaf-4890-809c-05a75cb14ccd)
+
+![image](https://github.com/user-attachments/assets/02293001-6771-4e71-a8f4-b19149618467)
+
+
+로그인 완료
+
+![image](https://github.com/user-attachments/assets/590478b1-0d35-4e65-ae0b-f74d59212fb8)
