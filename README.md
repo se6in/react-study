@@ -138,3 +138,6 @@ npm install cookie-parser --save
 로그인 완료
 
 ![image](https://github.com/user-attachments/assets/590478b1-0d35-4e65-ae0b-f74d59212fb8)
+
+## Auth 기능 만들기
+
