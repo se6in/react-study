@@ -172,3 +172,43 @@ index.js
 
 ![image](https://github.com/user-attachments/assets/2a855ecf-b61d-4605-9268-8ebf8808d5cf)
 
+## 리액트란?
+
+2013년도에 발표된 페이스북에서 만든 라이브러리
+
+컴포넌트로 이루어져 재사용성이 뛰어남.
+
+virtual dom을 사용함.
+
+## Create-React-App
+
+npm uninstall -g create-react-app (리액트 앱 제거)
+
+npm install -g create-react-app (리액트 앱 재설치)
+
+npx create-react-app [app-name] (리액트 앱 실행)
+
+## npm npx
+
+npm의 역할
+
+bcrypt,body-parser,mongoose 등 라이브러리를 담고있는 레지스트리
+
+파일 빌드할때도 사용한다.
+
+global로 다운하면 공간을 차지함.
+
+npx의 장점
+
+디스크 스페이스를 낭비하지않을 수 있다.
+
+항상 최신 버전을 사용할 수 있다.
+
+# 리액트 구조 설명
+
+src에 이미지파일을 넣어야함. 그래야 웹팩 가능
+
+## boierplate 폴더 정리
+
+![image](https://github.com/user-attachments/assets/ad968f88-4225-430a-822d-daeed4af0a54)
+
