@@ -141,3 +141,34 @@ npm install cookie-parser --save
 
 ## Auth 기능 만들기
 
+auth.js
+
+![image](https://github.com/user-attachments/assets/c8e12ae5-f0d8-41e2-b9cc-9fe9c1014e38)
+
+index.js
+
+![image](https://github.com/user-attachments/assets/90367959-bf9c-4423-b7a3-fb0e3d332799)
+
+## 로그아웃 기능 만들기
+
+index.js
+
+![image](https://github.com/user-attachments/assets/a1da9bd5-bab6-4852-bf92-bca1a3788a05)
+
+포스트맨으로 로그인을 한다.
+
+![image](https://github.com/user-attachments/assets/eb519636-8587-4f0d-a045-3ee5e7e7842a)
+
+몽고db에 토큰이 들어왔다.
+
+![image](https://github.com/user-attachments/assets/55238607-aafd-40df-abd8-92490b36be4c)
+
+
+포스트맨으로 로그아웃을 한다.
+
+![image](https://github.com/user-attachments/assets/42ca14e5-0e9a-4767-8d64-84da86db9e71)
+
+몽고db에 토큰이 삭제됨.
+
+![image](https://github.com/user-attachments/assets/2a855ecf-b61d-4605-9268-8ebf8808d5cf)
+
