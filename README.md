@@ -212,3 +212,9 @@ src에 이미지파일을 넣어야함. 그래야 웹팩 가능
 
 ![image](https://github.com/user-attachments/assets/ad968f88-4225-430a-822d-daeed4af0a54)
 
+
+## React Router Dom
+
+npm i react-router-dom@6
+
+![image](https://github.com/user-attachments/assets/36658366-75b2-4d9c-aa79-94b864c8d7ec)
