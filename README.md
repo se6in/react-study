@@ -231,4 +231,22 @@ npm install axios --save
 
 ## CORS 이슈, Proxy 설정
 
+npm install http-proxy-middelware --save
+
+./src/setupProxy.js
+
+![image](https://github.com/user-attachments/assets/6142c488-c598-43f6-b70e-77bbd98127e5)
+
+## Proxy Server?
+
+1.아이피를 프록시 서버에서 임의로 바꿔 버릴 수 있다.
+
+2. 보내는 데이터도 임의로 바꿀 수 있다.
+
+3. 방화벽 기능
+
+4. 웹필터 기능
+
+5. 캐쉬 데이터, 공유 데이터 제공 기능
+
 
