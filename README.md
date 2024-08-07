@@ -227,4 +227,8 @@ request할때 지금까지는 client 부분이 없었기에 포스트맨을 이�
 
 jQuery를 사용할때 AJAX라고 보면됨.
 
-npm install axiox --save
+npm install axios --save
+
+## CORS 이슈, Proxy 설정
+
+
