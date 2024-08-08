@@ -269,6 +269,11 @@ npm install antd --save
 
 npm install redux react-redux redux-promise redux-thunk --save
 
+redux devtools 다운로드
+
+![image](https://github.com/user-attachments/assets/67dbb9b0-4e6d-42c1-a430-b0d66b5a1e4d)
+
+
 client/ index.js
 ![image](https://github.com/user-attachments/assets/6a2a91e3-eb19-4ff4-8fde-58feaefc13a8)
 
