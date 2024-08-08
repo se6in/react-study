@@ -259,4 +259,19 @@ npm run dev
 
 ## Antd CSS Framwork
 
+npm install antd --save
+
+![image](https://github.com/user-attachments/assets/b24d6925-1f2b-4854-95d0-71662917d132)
+
+## Redux 기초
+
+상태 관리 라이브러리
+
+npm install redux react-redux redux-promise redux-thunk --save
+
+client/ index.js
+![image](https://github.com/user-attachments/assets/6a2a91e3-eb19-4ff4-8fde-58feaefc13a8)
+
+client/_reducers/index.js
+![image](https://github.com/user-attachments/assets/e8fce6dc-2044-4ce8-b9e6-36d88fed16c8)
 
