@@ -275,3 +275,15 @@ client/ index.js
 client/_reducers/index.js
 ![image](https://github.com/user-attachments/assets/e8fce6dc-2044-4ce8-b9e6-36d88fed16c8)
 
+## React Hooks
+
+class component 
+
+기능이 많고 코드가 길어지고 복잡하고 성능면에서 느려진다.
+
+functional component
+
+제공하는 기능이 한정적이고 코드가 짧고 간단하고 성능면에서 빠르다.
+
+react hook으로 functional component를 기능이 많게 사용가능
+
