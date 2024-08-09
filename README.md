@@ -300,3 +300,10 @@ react hook으로 functional component를 기능이 많게 사용가능
 
 ![image](https://github.com/user-attachments/assets/a00e878f-29b6-49ed-91af-7aa3e0b270fb)
 
+## 로그 아웃 페이지
+
+로그 아웃 완료
+
+![image](https://github.com/user-attachments/assets/41b0de23-008e-478c-8338-81f5fe387378)
+
+![image](https://github.com/user-attachments/assets/94fcf171-fc85-4de5-b2bf-075ae9231f86)
